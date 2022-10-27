@@ -1,0 +1,5 @@
+docx==0.2.4
+docx2pdf==0.1.8
+docxtpl==0.16.4
+openpyxl==3.0.10
+streamlit==1.14.0
